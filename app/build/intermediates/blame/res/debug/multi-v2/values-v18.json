@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ziad/Desktop/android program/nav/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/ziad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f974862a8aeb2a183f18aeaf5a1fcdfc/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

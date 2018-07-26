@@ -1,0 +1,4 @@
+#Thu Jul 26 10:54:29 EET 2018
+base.0=/home/ziad/Desktop/android program/nav/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
